@@ -1,6 +1,6 @@
    <p align="center">  
-  <a href="https://secktoruserbot.onrender.com/">
-    <img alt="secktor docs" height="300" src="https://secktoruserbot.onrender.com/main.jpg">
+  <a href="https://telegra.ph/file/92afde6581810bbf27782.jpg">
+    <img alt="Milton docs" height="300" src="https://telegra.ph/file/92afde6581810bbf27782.jpg">
     <h1 align="center">Milton MD Whatsapp bot</h1>
   </a>
 </p>
@@ -66,10 +66,8 @@ Copy the JSON down and paste in repl then fill the vars
   
 9. ***Deploy in [Linux](https://github.com/SamPandey001/Secktor-Deploy#deploy-in-any-shell-including-termux)***
 
-10. if you get error in doing above try, [Deploy on VPS or PC.](https://github.com/SamPandey001/Secktor-Md/blob/main/deploy-on-vps.md)
----
-11. More info about [Secktor](https://secktorub-b34f1c3c60d3.herokuapp.com/).
-12. Deploy tutorial [Youtube Video](https://secktorub-b34f1c3c60d3.herokuapp.com/youtube).
+10. if you get error in doing above try, [Deploy on VPS or PC.](https://github.com/SamPandey001/Secktor-Md/blob/main/deploy
+11. Deploy tutorial [Youtube Video](https://secktorub-b34f1c3c60d3.herokuapp.com/youtube).
 
 
 - Star ⭐ repo if you like Milton
