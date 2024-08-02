@@ -1,7 +1,18 @@
-FROM quay.io/milton/milton
-RUN git clone https://github.com/BlackSheri45/Milton-Md/root/BlackSherif45
-WORKDIR /root/BlackSherif45/
-RUN npm install npm@latest
+FROM node:14
+
+WORKDIR /app
+
+*Copy the package.json and package-lock.json files to the container*
+COPY package*.json ./
+
+*Install dependencies*
 RUN npm install
+
+*Copy the rest of the application files to the container*
+COPY . .
+
+*Expose a port if your application requires it*
 EXPOSE 8000
-CMD ["npm", "start"]
+
+*Specify the command to run your application*
+CMD [ "npm", "start" ]
